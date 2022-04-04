@@ -1,37 +1,9 @@
-## Welcome to GitHub Pages
+## About Me
 
-You can use the [editor on GitHub](https://github.com/ryan-efendy/ryan-efendy.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+Ryan is currently a software engineer at Gopuff. He graduated with a BS in Computer Science from Drexel University in 2018. He dropped out from Georgia Tech while pursuing his MS in Computer Science to focus on an MA in Theology at Dallas Theological Seminary before transferring to Biola in 2022.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+He previously interned as a software engineer at Comcast, JP Morgan, Oracle, PayPal, and Amazon. Before Gopuff, he worked as a software engineer at Microsoft and Zoom.
 
-### Markdown
+https://www.linkedin.com/in/ryanefendy/
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ryan-efendy/ryan-efendy.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+https://twitter.com/_ryanefendy
